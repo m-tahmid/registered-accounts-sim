@@ -1,0 +1,20 @@
+{
+  "name": "Registered Accounts Simulator",
+  "short_name": "Reg Accounts",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "display": "browser",
+  "start_url": ".",
+  "background_color": "#07070f",
+  "theme_color": "#07070f"
+}
